@@ -13,7 +13,7 @@ I am a Data enthusiast with a passion for translating numbers into impactful bus
 
 - ⚡ Fun fact: I am a culinary Explorer and an Adventurer🤿
 <h3 align="left">Connect with me:</h3>
-<p><a href=”https://github.com/https://github.com/VasanthM27/Vasanth.github.io“ target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+<p><a href=”https://github.com/https://github.com/VasanthM27/Vasanth.github.io“ target="blank"><img src='https://raw.githubusercontent.com/VasanthM27/Vasanth.github.io/5ccbba6174722b25056cd3a064f5e1fcf089c919/github.svg' alt='github' height='40'></a>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='https://www.linkedin.com/in/Https://fr.linkedin.com/in/vasanthmn/' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='vasanthmuru8@gmail.com ' height='40'></p>
 
