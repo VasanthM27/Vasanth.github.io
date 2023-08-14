@@ -19,7 +19,7 @@ I am a Data enthusiast with a passion for translating numbers into impactful bus
   <a href="https://fr.linkedin.com/in/vasanthmn/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="40">
 </a>
-  <a href="vasanthmuru8@gmail.com">
+  <a href="mailto:vasanthmuru8@gmail.com">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="GitHub" height="40">
 </a>
 </p>
