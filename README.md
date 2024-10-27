@@ -11,7 +11,7 @@ I am a Data enthusiast with a passion for translating numbers into impactful bus
 
 - ⚡ Fun fact: I am a culinary Explorer and an Adventurer🤿
   
-<h3 align="left">🌐 Socials: Connect with me:</h3>
+<h3 align="left">🌐 Socials- Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasanthmn)
 
