@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/VasanthM27/Vasanth.github.io/blob/main/Images/name.png)
+![MasterHead](https://github.com/VasanthM27/Vasanth.github.io/blob/main/Images/gius.png)
 <img align="right" alt="" width="400" src="">
 
 **`Data Nerd (Data Analyst/Data Engineer)`**.
