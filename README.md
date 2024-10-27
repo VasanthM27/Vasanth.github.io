@@ -1,16 +1,23 @@
 ![MasterHead](https://github.com/VasanthM27/Vasanth.github.io/blob/main/Images%20/github-header-image.png)
 <img align="right" alt="" width="400" src="">
 
-I am a Data enthusiast with a passion for translating numbers into impactful business strategies.
+**`Data Nerd (Data Analyst/Data Engineer)`**.
 
+# 👋 Hi, I'm Vasanth!
 💫 About Me:
 👨‍💻 I am a Data Engineer and a former Data Analyst with 5 years of expertise.<br>My journey spans advanced data engineering and analytical projects in Microsoft Azure, where I've developed skills<br>across data warehousing, data modeling and cloud-based analytics<br><br>🔧 Skills & Tools<br>📊 Data Engineering & Analysis: SQL, Python, Pandas, PySpark, SparkSQL<br>☁️ Azure Ecosystem: Data Factory, Databricks, Synapse Analytics<br>📈 Data Visualization & Reporting: PowerBI, Looker<br>🔄 Workflow Orchestration & Automation: Airflow, Dbt, CI/CD pipelines<br>📦 Additional Domain Knowledge: Supply Chain Management & Purchasing Intelligence, Retail, Marketing, Front end Web development.<br><br>📚 Always Evolving<br>🚀 I'm committed to evolving as an Data Enthusiast, continuously exploring sustainable tools and techniques in the data realm.<br>☁️ Currently diving into advanced cloud architectures, distributed systems, and real-time data processing with tools like Delta Lake, Terraform, Kafka and other Apache services..<br>🎯 My goal is to build more scalable, automated, and impactful data solutions that drive company values and efficiency in complex workflows.
 
+👩🏻‍💻 Data Engineer sharing about my journey and learnings in tech<br/>
+
+👩🏻‍🎓 Studied a bachelor in Mechanical Engineering with a domain knowledge on mathematics, advanced engineering concepts at SRM University, Chennai, In <br/>
+👩🏻‍🎓 Continued a master in Big Data and Business Intelligence with a domain knowledge on supply chain management at the SKEMA Business School, Lille, France<br/>
+👩🏻‍🎓 Continued a master in International Business with a focus on marketing and finance at the University of Chester, United Kingdom <br/>
+🌷 learninginpublic in my [Website](https://yourwebsite.com/)<br/>
+
 - 💬 Ask me about **Data Analysis and Data Engineering**
-  
 - 🌱 I’m currently learning **Modern Data Engineering Practices**
 
-- ⚡ Fun fact: I am a culinary Explorer and an Adventurer🤿
+- ⚡ Fun fact: I am a culinary Explorer and love Adventures🤿
 
 <h3 align="left">🌐 Socials- Connect with me:</h3>
 
