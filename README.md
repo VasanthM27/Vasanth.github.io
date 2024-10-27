@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/VasanthM27/Vasanth.github.io/blob/main/github-header-image.png?raw=true)
+![MasterHead](https://github.com/VasanthM27/Vasanth.github.io/blob/main/Images%20/github-header-image.png)
 <img align="right" alt="" width="400" src="">
 
 I am a Data enthusiast with a passion for translating numbers into impactful business strategies.
