@@ -7,7 +7,7 @@
 💫 **About Me**:
 👨‍💻 I am a Data Engineer and a former Data Analyst with 5 years of expertise.<br>My journey spans advanced data engineering and analytical projects in Microsoft Azure, where I've developed skills<br>across data warehousing, ETL data Pipelines, data modeling and cloud-based analytics<br><br>🔧 **Skills & Tools**<br>📊 **Data Engineering & Analysis**: SQL, Python, Pandas, PySpark, SparkSQL<br>☁️ **Azure Ecosystem**: Data Factory, Databricks, Synapse Analytics<br>📈 **Data Visualization & Reporting**: PowerBI, Looker<br>🔄 **Workflow Orchestration & Automation**: Airflow, Dbt, CI/CD pipelines<br>📦 **Additional Domain Knowledge**: Supply Chain Management & Purchasing Intelligence, Retail, Marketing, Front end Web development.<br><br>📚 **Always Evolving**<br>🚀 I'm committed to evolving as an Data Enthusiast, continuously exploring sustainable tools and techniques in the data realm.<br>☁️ Currently diving into advanced cloud architectures, distributed systems, and real-time data processing with tools like Delta Lake, Terraform, Kafka and other Apache services..<br>🎯 My goal is to build more scalable, automated, and impactful data solutions that drive company values and efficiency in complex workflows.
 
-👩🏻‍💻 **Data Engineer sharing about my education journey and learnings in tech**<br/>
+👩🏻‍💻 **My education journey and learnings in tech so far**<br/>
 
 👩🏻‍🎓 A master in International Business with a focus on marketing and finance at the University of Chester, United Kingdom <br/>
 👩🏻‍🎓 A master in Big Data and Business Intelligence (supply chain management) at the SKEMA Business School, Lille, France<br/>
