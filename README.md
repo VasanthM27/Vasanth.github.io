@@ -13,9 +13,6 @@ I am a Data enthusiast with a passion for translating numbers into impactful bus
 
 - ⚡ Fun fact: I am a culinary Explorer and an Adventurer🤿
 <h3 align="left">Connect with me:</h3>
-<p><a href="https://github.com/VasanthM27/Vasanth.github.io">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">
-</a>
   <a href="https://fr.linkedin.com/in/vasanthmn/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="40">
 </a>
